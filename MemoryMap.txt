@@ -1,0 +1,9 @@
+Memory Map:
+EPROM : ff000H to fffffH
+
+SRAM 6108 : 00800H to 00FFFH
+
+6116 SRAM : 00000H to 007ffH
+
+6164 SRAM : 00000H to 01fffh
+61256SRAM : 00000H to 07fffh
